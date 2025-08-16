@@ -26,4 +26,4 @@ q5.sql
 - Returns subscriber along with watch time details of each show on database
 To use: call SendAllWatchTimeReport;
 
-Git Repo Link: 
+Git Repo Link: https://github.com/XProtocol0/Stored-Procedures-and-Cursors
